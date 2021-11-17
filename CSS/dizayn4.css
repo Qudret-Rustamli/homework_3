@@ -1,0 +1,70 @@
+    /* 4cu sehifenin css kodlari*/
+    .D1600panel{
+        margin:auto;
+        width: 1600px;
+        height: 1000px;
+        margin-bottom: 10px;
+    }
+
+
+.govde_4{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    width: 1365.58px;
+    height: 675px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+.metn_sahesi{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+    width: 420px;
+    height: 375px;
+    box-sizing: border-box;
+}
+.metn_sahesi h1{
+    width: 245px;
+    height: 96px;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 48px;
+}
+.metn_sahesi h2{
+    font-size: 21px;
+    line-height: 30px;
+}
+.metn_sahesi p{
+    font-size: 21px;
+    line-height: 30px;
+    color: #7D7987;
+}
+
+
+
+.sekilarea{
+    width: 665px;
+    height: 434px;
+    box-sizing: border-box;
+}
+
+.sekilarea img{
+    width: 100%;
+    height:100%;
+}
+.btn_download{
+    width: 200px;
+    height: 60px;
+    border-radius: 55px;
+    background-color: #FFF;
+    color: #458FF6;
+    border:1px solid #458FF6;
+    font-size: 20px;
+
+}

@@ -1,0 +1,153 @@
+/* 7ci sehifenin css kodlari*/
+.G1600panel{
+    margin:auto;
+    width: 100%;
+    height: 432px;
+}
+.figma_first_page{
+    display: flex;
+    justify-content: center;
+
+}
+
+
+
+
+.goy_yer_footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    height: 432px;
+    background-color: #67C3F3;
+    margin-left: -80px;
+}
+
+.soz_paneli_1a{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    width: 391px;
+    height: 201px;
+    
+}
+.loqo_panel_10{
+    width: 140px;
+    height: 32px;
+}
+.soz_paneli_1a img{
+    width: 100%;
+    height: 100%;
+}
+.soz_paneli_1a p{
+    font-size: 18px;
+    line-height: 28px;
+    color: #fff;
+}
+.soz_paneli_1a h6{
+    font-size: 16px;
+    line-height: 28px;
+    color: #fff;
+}
+
+.soz_paneli_2a{
+    display: flex;
+    justify-content: space-evenly;
+    width: 152px;
+    height: 214px;
+    list-style-type: none;
+    color: #fff;
+    box-sizing: border-box;
+}
+.son_ul_1{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-size:18px;
+    line-height: 38px;
+    
+}
+ul .ul111{
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 60px;
+}
+
+
+.son_ul_1 a{
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+
+.soz_paneli_3a{
+    display: flex;
+    justify-content: space-evenly;
+    width: 152px;
+    height: 214px;
+    list-style-type: none;
+    color: #fff;
+    box-sizing: border-box;
+}
+.son_ul_2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-size:18px;
+    line-height: 38px;
+    
+}
+ul .ul222{
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 60px;
+}
+
+
+.son_ul_2 a{
+    text-decoration: none;
+    color: #fff;
+}
+
+
+
+.soz_paneli_4a{
+    display: flex;
+    justify-content: space-evenly;
+    width: 152px;
+    height: 214px;
+    list-style-type: none;
+    color: #fff;
+    box-sizing: border-box;
+}
+.son_ul_3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-size:18px;
+    line-height: 38px;
+    
+}
+ul .ul333{
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 60px;
+}
+
+
+.son_ul_3 a{
+    text-decoration: none;
+    color: #fff;
+}
+
+
+/* ----------hovers--------------*/
+
+ul > li .hov-1:hover {
+    font-weight: bold;
+    color: red;
+    background-color: indigo;
+}

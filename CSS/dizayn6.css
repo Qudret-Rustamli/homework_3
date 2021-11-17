@@ -1,0 +1,69 @@
+/* 6ci sehifenin css kodlari*/
+.F1600panel{
+    margin:auto;
+    width: 1600px;
+    height: 900px;
+}
+.body_1{
+    display: flex;
+    flex-direction:column ;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 1785.11px;
+    height: 810px;
+    margin-left: -170px;
+}
+
+
+.yazilarh_1{
+    width: 462px;
+    height: 84px;
+    text-align: center;
+}
+.yazilarh_1 h1{
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 56px;
+}
+.yazilarh_1 h2{
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+
+
+
+
+.panels_6{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-content: center;
+    flex-wrap: wrap;
+    width: 1130px;
+    height: 600px;
+
+}
+
+.sekilphoto{
+    width: 350px;
+    height: 512px;
+}
+
+.sekilphoto img{
+    width: 100%;
+    height: 100%; 
+}
+.btn_view_all_first{
+ 
+    width: 200px;
+    height: 60px;
+    border-radius: 55px;
+    background-color: #FFF;
+    color: #458FF6;
+    border:1px solid #458FF6;
+    font-size: 20px;
+    
+    
+}
